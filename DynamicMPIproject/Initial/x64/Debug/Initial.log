@@ -1,0 +1,4 @@
+﻿  icpi.cpp
+c:\users\afeka\desktop\hw1_makbili\dynamicmpiproject\initial\icpi.cpp(127): warning C4700: uninitialized local variable 'status' used
+  Initial.vcxproj -> C:\Users\afeka\Desktop\HW1_Makbili\DynamicMPIproject\x64\Debug\Initial.exe
+  Initial.vcxproj -> C:\Users\afeka\Desktop\HW1_Makbili\DynamicMPIproject\x64\Debug\Initial.pdb (Full PDB)

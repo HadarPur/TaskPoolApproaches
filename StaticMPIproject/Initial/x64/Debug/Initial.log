@@ -1,0 +1,5 @@
+﻿  icpi.cpp
+c:\users\afeka\desktop\hw1_makbili\staticmpiproject\initial\icpi.cpp(88): warning C4700: uninitialized local variable 'status' used
+  LINK : C:\Users\afeka\Desktop\HW1_Makbili\StaticMPIproject\x64\Debug\Initial.exe not found or not built by the last incremental link; performing full link
+  Initial.vcxproj -> C:\Users\afeka\Desktop\HW1_Makbili\StaticMPIproject\x64\Debug\Initial.exe
+  Initial.vcxproj -> C:\Users\afeka\Desktop\HW1_Makbili\StaticMPIproject\x64\Debug\Initial.pdb (Full PDB)

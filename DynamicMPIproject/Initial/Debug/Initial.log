@@ -1,0 +1,13 @@
+﻿  icpi.cpp
+c:\users\afeka\desktop\hw1_makbili\dynamicmpiproject\initial\icpi.cpp(125): warning C4700: uninitialized local variable 'status' used
+icpi.obj : error LNK2019: unresolved external symbol _MPI_Send referenced in function "void __cdecl dynamicMaster(int,struct MPI_Status)" (?dynamicMaster@@YAXHUMPI_Status@@@Z)
+icpi.obj : error LNK2019: unresolved external symbol _MPI_Recv referenced in function "void __cdecl dynamicMaster(int,struct MPI_Status)" (?dynamicMaster@@YAXHUMPI_Status@@@Z)
+icpi.obj : error LNK2019: unresolved external symbol _MPI_Comm_size referenced in function _main
+icpi.obj : error LNK2019: unresolved external symbol _MPI_Comm_rank referenced in function _main
+icpi.obj : error LNK2019: unresolved external symbol _MPI_Get_processor_name referenced in function _main
+icpi.obj : error LNK2019: unresolved external symbol _MPI_Wtime referenced in function _main
+icpi.obj : error LNK2019: unresolved external symbol _MPI_Init referenced in function _main
+icpi.obj : error LNK2019: unresolved external symbol _MPI_Finalize referenced in function _main
+icpi.obj : error LNK2019: unresolved external symbol _MPI_Abort referenced in function _main
+C:\Program Files\MPICH2\lib\mpi.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Users\afeka\Desktop\HW1_Makbili\DynamicMPIproject\Debug\Initial.exe : fatal error LNK1120: 9 unresolved externals
